@@ -22,12 +22,6 @@
 | :------- | :---------- | :--- |
 | v0.8 | **Initial Protocol Design** – MVP/Proof of Concept stage. **Not production-ready**; production release targeted for v1.0. | 2025-05-27 |
 
-**Disclaimer**
-
-*This document contains information regarding prototype technology for informational purposes only, and reflects current plans and is subject to change without notice. Development of the technology described herein is ongoing, and is not a final product, nor currently available for commercial use.*
-
-*Input Output Global Inc. and its affiliates and subsidiaries make no warranties, express or implied, regarding the accuracy, completeness, or performance of the technology. All intellectual property, including concepts, designs, and specifications, remains with Input Output Global Inc. and its relevant subsidiaries, affiliates and licensees. Reproduction, distribution, or use of this document without prior written consent from Input Output Global Inc. is prohibited.”*
-
 # Abstract
 
 This document introduces Cardinal, a protocol for wrapping Bitcoin Unspent Transaction Outputs (UTxOs) onto the Cardano blockchain, using Bitcoin Ordinals as Cardano Non-Fungible Tokens (NFTs) as a primary example.
