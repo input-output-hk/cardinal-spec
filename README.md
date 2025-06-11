@@ -892,7 +892,7 @@ A space-efficient, one-time signature scheme used within BitVMX to sign inputs a
 2. Dods, Chris, Nigel P. Smart, and Martijn Stam. "Hash based digital signature schemes." In IMA international conference on cryptography and coding, pp. 96-115. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005\.
 3. Futoransky, Ariel, Fadi Barbara, Ramses Fernandez, Gabriel Larotonda, and Sergio Lerner. “TOOP: A transfer of ownership protocol over Bitcoin.” Cryptology ePrint Archive, Paper 2025/964 (2025).
 4. Lerner, Sergio Demian, Ramon Amela, Shreemoy Mishra, Martin Jonas, and Javier Álvarez Cid-Fuentes. "Bitvmx: A cpu for universal computation on bitcoin." arXiv preprint arXiv:2405.06842 (2024).
-5. Linus, Robin. "Bitvm: Compute anything on bitcoin." URL: https://bitvm.org/bitvm. pdf-(12.12. 2023\) (2023).
+5. Linus, Robin. "Bitvm: Compute anything on bitcoin." URL: https://bitvm.org/bitvm.pdf -(12.12. 2023\) (2023).
 6. Nick, Jonas, Tim Ruffing, and Yannick Seurin. "MuSig2: Simple two-round Schnorr multi-signatures." In Annual International Cryptology Conference, pp. 189-221. Cham: Springer International Publishing, 2021\.
 
 [^1]:  See [https://docs.cardano.org/developer-resources/native-tokens](https://docs.cardano.org/developer-resources/native-tokens) for detailed information.
