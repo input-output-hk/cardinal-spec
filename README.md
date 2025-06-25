@@ -637,7 +637,7 @@ The Ordinal is sent to either:
 
 A portion of the transaction fees is allocated to the operators facilitating the unlock **(3)**.
 
-![Full Cooperation Unlock](./images/full_cooperation_unlock.png)
+![Full Cooperation Unlock](./images/full_coop_unlock.png)
 
 ### 3.2.4. BitVMX program unlock
 
