@@ -275,7 +275,7 @@ Users interact with Bitcoin and Cardano blockchains (4), request information abo
 
 Each operator runs the operator node software to participate in the protocol. The node is released as a group of docker containers that can be bootstrapped without any other dependencies on Linux x64 hosts.
 
-Operator nodes interact with Bitcoin and Cardano blockchains through its monitor component (1), with other operator nodes via its p2p protocol component (3), and with users using its off-chain publisher component (2).
+Operator nodes interact with Bitcoin and Cardano blockchains through its monitor component (1), with other operator nodes via its p2p protocol component (2), and with users using its off-chain publisher component (3).
 
 ![Operator Node](./images/operator_node.png)
 
